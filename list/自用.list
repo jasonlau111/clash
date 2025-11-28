@@ -1,7 +1,6 @@
-- DOMAIN-SUFFIX,docker.io,PolYun
-- DOMAIN-SUFFIX,docker.com,PolYun
-- DOMAIN,auth.docker.io,PolYun
-- DOMAIN,registry-1.docker.io,PolYun
-- DOMAIN,production.cloudflare.docker.com,PolYun
-- DOMAIN-SUFFIX,tmdb.org,PolYun
-- DOMAIN,apple-bing.sbs,DIRECT
+- DOMAIN-SUFFIX,docker.io
+- DOMAIN-SUFFIX,docker.com
+- DOMAIN,auth.docker.io
+- DOMAIN,registry-1.docker.io
+- DOMAIN,production.cloudflare.docker.com
+- DOMAIN-SUFFIX,tmdb.org
